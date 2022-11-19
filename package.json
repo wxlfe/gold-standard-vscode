@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/wxlfe/gold-standard-vscode"
   },
+  "icon": "assets/extension-marketplace-icon.png",
   "keywords": [
     "theme",
     "dark theme",
