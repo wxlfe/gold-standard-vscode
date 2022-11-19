@@ -3,6 +3,19 @@
   "displayName": "Gold Standard",
   "description": "A simple pair of themes both light and dark making use of a color palette of charcoal, off-white, and muted gold.",
   "version": "0.0.1",
+  "publisher": "wxlfe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wxlfe/gold-standard-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "light theme",
+    "gold",
+    "gold theme",
+    "wxlfe"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
