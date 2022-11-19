@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/wxlfe/gold-standard-vscode/blob/main/assets/extension-marketplace-icon.png?raw=true"></img></p>
+
 # Gold Standard
 
 A simple pair of themes both light and dark making use of a color palette of charcoal, off-white, and muted gold.
