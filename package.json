@@ -1,0 +1,26 @@
+{
+  "name": "gold-standard",
+  "displayName": "Gold Standard",
+  "description": "A simple pair of themes both light and dark making use of a color palette of charcoal, off-white, and muted gold.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gold Standard Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gold Standard Dark.json"
+      },
+      {
+        "label": "Gold Standard Light",
+        "uiTheme": "vs",
+        "path": "./themes/Gold Standard Light.json"
+      }
+    ]
+  }
+}
