@@ -2,7 +2,7 @@
   "name": "gold-standard",
   "displayName": "Gold Standard",
   "description": "A simple pair of themes both light and dark making use of a color palette of charcoal, off-white, and muted gold.",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "wxlfe",
   "repository": {
     "type": "git",
