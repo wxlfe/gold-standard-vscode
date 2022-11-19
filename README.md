@@ -1,16 +1,11 @@
-# gold-standard README
+# Gold Standard
 
-## Working with Markdown
+A simple pair of themes both light and dark making use of a color palette of charcoal, off-white, and muted gold.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Quick Start
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Once the themes have reached a usable state, I'll make them available in the VS Code Extension Marketplace. As of now, they aren't listed just yet.
 
-## For more information
+## Contributing
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+While this is more of a personal side project, if you use the theme and find an issue, feel free to offer changes. I don't use every language or framework, so there are many environments I'll never see this theme used in, but I'd much prefer it be usable there nevertheless.
