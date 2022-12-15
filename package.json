@@ -26,14 +26,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Gold Standard Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Gold Standard Dark.json"
-      },
-      {
         "label": "Gold Standard Light",
         "uiTheme": "vs",
         "path": "./themes/Gold Standard Light.json"
+      },
+      {
+        "label": "Gold Standard Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gold Standard Dark.json"
       }
     ]
   }

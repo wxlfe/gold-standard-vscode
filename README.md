@@ -13,3 +13,9 @@ It's also searchable there by name!
 ## Contributing
 
 While this is more of a personal side project, if you use the theme and find an issue, feel free to open an issue or offer changes. I don't use every language or framework, so there are many environments I'll never see this theme used in, but I'd much prefer it be usable there nevertheless.
+
+## Packaging & Publishing
+
+To package, run `vsce package`.
+
+Then, publish by running `vsce publish [ patch | minor | major ]`
