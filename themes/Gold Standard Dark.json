@@ -5,6 +5,7 @@
   "colors": {
     "focusBorder": "#d1ad54",
     "foreground": "#f8f8f8",
+    "icon.foreground": "#f8f8f8",
     "activityBar.background": "#282828",
     "activityBar.inactiveForeground": "#989898",
     "activityBar.dropBackground": "#d1ad54",
