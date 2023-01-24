@@ -201,8 +201,7 @@
     "notificationCenterHeader.background": "#282828",
     "notificationCenterHeader.foreground": "#d1ad54",
     "notificationLink.foreground": "#d1ad54",
-    "notifications.background": "#d1ad54",
-    "notifications.border": "#282828",
+    "notifications.background": "#282828",
     "notifications.foreground": "#f8f8f8",
     "notificationToast.border": "#d1ad5400",
 
